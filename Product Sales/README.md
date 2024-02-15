@@ -48,3 +48,7 @@ The Project Contain :
 17.Total profit per product color
 
 18.Total profit per customer state
+
+<h1>Final Dashboard</h1>
+
+![Product Sales Dashboard](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/d05b27b5-bce1-4afb-8e8f-7bc9ae6bdf5c)
