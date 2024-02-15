@@ -33,3 +33,7 @@ The Sale from January-2019 August 2022 Ara anal Lith are 2 products that sales w
 There is a big drup in sales of all products since the beginning of 2022,
 Most product is sold in United States,
 Top customers spend over $270 on coffee over time.
+
+<h1>Final Dashboard</h1>
+
+![Coffee Sales Dashboard](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/93365e4d-94cd-4a52-8fd5-90912cdf8b49)
