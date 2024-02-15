@@ -34,3 +34,6 @@ The Project Contain :
 10.Product type
 
 11.Date
+
+<h1>Final Dashboard</h1>
+![WhatsApp Image 2024-02-16 at 12 26 16 AM](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/c046f049-241a-463d-bcb9-71f14bc49602)
