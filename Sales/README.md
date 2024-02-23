@@ -1,4 +1,4 @@
-# Product Sales
+# Sales
 The objective of the report to help businesses make better decisions by analyzing data of the individuals on company and analyze Sales Data to make informed business decisions. It can help identify trends, life style information , and revenue Standards.
 
 <h1>Key Components:</h1>
@@ -37,4 +37,4 @@ The Project Contain :
 
 <h1>Final Dashboard</h1>
 
-![Sales Dashboard](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/83a780e9-daa8-4b54-8b56-2dcccd99248e)
+![Sales](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/a7369644-9668-4ba4-a20a-8718e5c5252a)
